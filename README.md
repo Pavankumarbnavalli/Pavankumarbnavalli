@@ -14,36 +14,6 @@ Scripting: Bash, Shell, Python
 Version Control: Git, GitHub, GitLab
 Others: Ansible, Linux, Networking (VPC, Subnets, LB, DNS)
 
-📂 DevOps Portfolio Projects
-🔹 1. CI/CD Pipeline with GitHub Actions
-Automated build, test, and deployment pipeline
-Dockerized app deployed to AWS
-Status checks + branch protections
-🔗 Repo: Coming Soon
-
-🔹 2. Terraform Infrastructure on AWS
-Provisioned VPC, EC2, IAM, and S3 using Terraform
-Implemented modules, variables, and remote backend
-Demonstrated IaC best practices
-🔗 Repo: Coming Soon
-
-🔹 3. Docker + Kubernetes Deployment
-Built Docker image for sample app
-Created Deployment, Service, Ingress configs for K8s
-Deployable to EKS/AKS
-🔗 Repo: Coming Soon
-
-🔹 4. Monitoring with Prometheus & Grafana
-Setup monitoring stack for microservices
-Custom dashboards for CPU, memory, and API latency
-Alert rules configured
-🔗 Repo: Coming Soon
-
-🔹 5. Automation Scripts (Bash/Python)
-Daily maintenance scripts
-Log parsing automation
-Small utility tools for DevOps tasks
-🔗 Repo: Coming Soon
 
 📊 About Me
 
